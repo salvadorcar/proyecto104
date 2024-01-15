@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../poryecto/__MACOSX"
+		},
+		{
+			"path": "../poryecto/App web vamos a chatear-Plantilla"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "App web vamos a chatear-Plantilla"
+	}
+}
